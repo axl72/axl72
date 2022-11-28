@@ -1,3 +1,4 @@
+<div>
 <style>
     .center{
         align-self: center;
@@ -7,7 +8,6 @@
 .pull-right{float:right}
 .clearfix:after,.clearfix:before{content:'';display:table}
 .clearfix:after{clear:both;display:block}
-
 .author-quote-wrap .author-quote,
 .author-quote-wrap .author-photo:before{
 	top:0;
@@ -16,7 +16,6 @@
 	bottom:0;
 	position:absolute;
 }
-
 .author-quote-wrap{
 	color:#fff;
 	width:100%;
@@ -145,7 +144,6 @@
 .author-quote-wrap .author-photo .navigate .label:hover:after{
 	background:#fff;
 }
-
 .author-quote-wrap .quote-content{
 	padding:15px;
 	width:calc(560px - 140px);
@@ -182,7 +180,6 @@
 	transform:rotate(45deg);
 	transform-origin :100% 100%;
 }
-
 .quote-content .quote-text,
 .quote-content .quote-author{
 	text-transform:uppercase;
