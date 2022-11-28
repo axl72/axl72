@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @axl72
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-axl72/axl72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+    <img src="https://imgur.com/ndMAPSm" widht="200"/>
+    <h1> I'm axl</h1>
+    <h3>
+        La peor parte del infierno no son las llamas, sino no poder encontrar un debugger
+    </h3>
+</div>
