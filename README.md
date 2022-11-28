@@ -199,7 +199,7 @@
 	content:'- ';
 }
 </style>
-
+</div>
 <div>
     <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif"/>
     <h1> I'm axl</h1>
