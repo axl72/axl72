@@ -31,17 +31,10 @@
 <br>
 <hr>
 
-<div>
 
-<span>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=axl72&theme=bear&border_radius=4.7&locale=es&date_format=M%20j%5B%2C%20Y%5D&background=B6C7DD)](https://git.io/streak-stats)
 
-</span>
-<span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axl72&layout=compact&exclude_repo=obsidian-notes&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-</span>
-
-</div>
