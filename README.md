@@ -2,7 +2,7 @@
     <h1> 👋 Hola </h1>
     <h1> Mi nombre es Axell y soy desarrollador de software </h1>
     <div>
- <img src="https://images.pling.com/img/00/00/55/86/05/1442238/52a1fd1452e167de8c5fe1c7f11e8bfc170bdef4abd39cb72c1d5ce785019a26dafe.gif"
+ <img src="https://images.pling.com/img/00/00/55/86/05/1442238/     52a1fd1452e167de8c5fe1c7f11e8bfc170bdef4abd39cb72c1d5ce785019a26dafe.gif"
        alt="Imagen Circular"
        style="width: 250px; height: 240px; border-radius: 50%; overflow: hidden; display: block;">
     </div>
@@ -24,7 +24,7 @@
 
   <div>
     Melómano y fan de Linux. A veces desarrollo aplicaciones para terminal como
-    <a href="https://github.com/axl72/Hercules" title="Hercules">Hercules</a>), un programa de terminal para descargar toda la música que quieras. Desarrollo en Python, Java y C++. En mi repos podrás encontrar desde un <a href="https://github.com/axl72/vulcan-compiler">compilador</a> en Java hasta el Algoritmo MiniMax en <a href="https://github.com/axl72/Timbiriche">Dots and Boxes</a>
+    <a href="https://github.com/axl72/Hercules" title="Hercules">Hercules</a>, un programa de terminal para descargar toda la música que quieras. Desarrollo en Python, Java y C++. En mi repos podrás encontrar desde un <a href="https://github.com/axl72/vulcan-compiler">compilador</a> en Java hasta el Algoritmo MiniMax en <a href="https://github.com/axl72/Timbiriche">Dots and Boxes</a>
   </div>
 </div>
 
