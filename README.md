@@ -14,17 +14,17 @@
 <p></p>
 
 
-## [![Site](https://img.shields.io/website?label=jairjr.dev&style=for-the-badge&url=https://www.jairjr.dev/)](https://www.jairjr.dev)
-## [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairredigolojunior/)
-## [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninho15830/)
-## [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517996234888)
-## [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juninho15830@gmail.com)
+// [![Site](https://img.shields.io/website?label=jairjr.dev&style=for-the-badge&url=https://www.jairjr.dev/)](https://www.jairjr.dev)
+## [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axell-bernabel-3bb697222/)
+// [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninho15830/)
+// [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517996234888)
+// [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juninho15830@gmail.com)
 
-![Juninho15830 GitHub stats](https://github-readme-stats.vercel.app/api?username=juninho15830&show_icons=true&theme=dracula&count_private=true)
+![axl72 GitHub stats](https://github-readme-stats.vercel.app/api?username=axl72&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologías que uso en mi día
 
-![Juninho15830 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juninho15830&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+![Juninho15830 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=axl72&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
