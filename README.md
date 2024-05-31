@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+Soy+Axell!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+Soy+Axell;" />
 </h1>
-<h3>Desarrollador Web </h3>
+<h3>Desarrollador Full Stack</h3>
 
 ![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
 
-<p> Desarrollador Full Stack.</p>
+<p>Me interesa todo lo referente al desarrollo web además de otras tecnologías.</p>
 
 <p>Mis proyectos se encuentran en mi portafolio</p>
 
