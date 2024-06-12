@@ -4,12 +4,9 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-## About me
+<h2 align="center">☕ About me</h2>
 
 <p>I am a 25 year old software developer. I am interested in cybersecurity, machine learning, web development and other fields. I have developed different projects and I hope that one of these will be useful for you.</p>
-
-![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
-
 
 
 <p>Here, you can see a few of my projects</p>
@@ -24,11 +21,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/axl72/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axell.bernabel72@gmail.com)
 
-![axl72 GitHub stats](https://github-readme-stats.vercel.app/api?username=axl72&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologías que uso en mi día
+<h2 align="center">☕ Statistics</h2>
 
-![Juninho15830 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=axl72&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=axl72&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=axl72&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=axl72&theme=material-palenight&hide_border=true&background=FFFFFF00">
+</p>
+
+<h2 align="center"> My skills</h2>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
